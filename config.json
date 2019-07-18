@@ -1,0 +1,21 @@
+{
+  "M_cap": 1,
+  "N_rack": 3,
+  "N_r_pm": 4,
+  "D_size": 1024,
+  "D_type": 2000,
+  "Link_max_load": 1000,
+  "Rep_set_range": {
+    "min": 2,
+    "max": 5
+  },
+  "Target_rep_num": 4,
+  "Service_load_range": {
+    "min": 50,
+    "max": 200
+  },
+  "beta": 1.2,
+  "Hdfs_iteration": 2,
+  "Hdfs_interval":3
+
+}
